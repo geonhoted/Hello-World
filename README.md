@@ -1,2 +1,2 @@
-# Hello-World
-BOJ problem code
+#  BOJ problem code
+### daily record
