@@ -1,4 +1,4 @@
-even = ['a', 'e', 'i', 'u', 'o']
+even = ['a', 'e', 'i', 'u', 'o', 'A', 'E', 'I', 'U', 'O']
 count = 0
 
 while (True):
@@ -10,4 +10,4 @@ while (True):
         for letter in word:
             if letter in even:
                 count += 1
-print(count)
+    print(count)
